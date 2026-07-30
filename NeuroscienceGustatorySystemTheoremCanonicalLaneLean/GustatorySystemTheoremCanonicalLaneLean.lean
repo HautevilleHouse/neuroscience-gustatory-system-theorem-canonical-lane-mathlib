@@ -1,0 +1,18 @@
+import GustatorySystemTheoremCanonicalLaneLean.AdmissibleClass
+import GustatorySystemTheoremCanonicalLaneLean.BridgeLemmas
+import GustatorySystemTheoremCanonicalLaneLean.GateLemmas
+import GustatorySystemTheoremCanonicalLaneLean.GustatorySystemTheoremFinal
+import GustatorySystemTheoremCanonicalLaneLean.HodgkinHuxleyPDE
+import GustatorySystemTheoremCanonicalLaneLean.HebbianPlasticity
+import GustatorySystemTheoremCanonicalLaneLean.NeuralFieldTheory
+import GustatorySystemTheoremCanonicalLaneLean.Connectomics
+
+namespace HautevilleHouse
+namespace GustatorySystemTheoremCanonicalLaneLean
+
+-- Root module for the gustatory system theorem package
+
+def packageName : String := "GustatorySystemTheoremCanonicalLaneLean"
+
+end GustatorySystemTheoremCanonicalLaneLean
+end HautevilleHouse
